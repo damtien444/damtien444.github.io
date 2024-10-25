@@ -34,6 +34,48 @@
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
 
+    <style>
+      .eye-container {
+          position: relative;
+          width: 200px;
+          height: 128px;
+          border-radius: 8px;
+          padding: 16px;
+          margin: 50px auto;
+      }
+
+      .eye {
+          position: absolute;
+          top: 50%;
+          width: 64px;
+          height: 64px;
+          background-color: white;
+          border-radius: 50%;
+          border: 2px solid #d1d5db;
+          transform: translateY(-50%);
+      }
+
+      .eye.left {
+          left: 48px;
+      }
+
+      .eye.right {
+          right: 48px;
+      }
+
+      .pupil {
+          position: absolute;
+          width: 24px;
+          height: 24px;
+          background-color: #043361;
+          border-radius: 50%;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          transition: transform 0.1s ease-out;
+      }
+  </style>
+
   </head>
   <body>
     <div class="wrapper">
@@ -92,7 +134,20 @@
         </div>
         <br>
 
+        <div class="eye-container">
+          <div class="eye left">
+              <div class="pupil" id="leftPupil"></div>
+          </div>
+          <div class="eye right">
+              <div class="pupil" id="rightPupil"></div>
+          </div>
+          <div>
+            <!-- <p style="text-align: center;">I'm watching you!</p> -->
+          </div>
+        </div>
+
       </header>
+
       <section>
 
       {{ content }}
@@ -109,6 +164,8 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/eye-animation.js" | relative_url }}"></script>
+
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
