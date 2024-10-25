@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am Dam Quang Tien, a master's student at Ritsumeikan University, supervised by Prof. Joo-Ho Lee and Prof. Tran Dinh Tuan. My current research focuses on using generative models to generate reactions to human conversations or physical stimuli signals. I aspire to leverage AI to expand the boundaries of human knowledge. Imagine a future where machine learning enables us to understand whale communication about water conditions—such fascinating research excites me.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** video generation, multimodal generation
+- **Facial Expression:** pain facial expression, facial reaction in dyadic conversation
+- Not much here, please enlighten me!
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2024]** We win The Second REACT Challenge@IEEE FG24!
 
 {% include_relative _includes/publications.md %}
 

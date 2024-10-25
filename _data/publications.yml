@@ -1,22 +1,21 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "PainDiffusion: Can robot express pain?"
+    authors: <strong> Quang Tien Dam</strong>, Tri Tung Nguyen Nguyen, Dinh Tuan Tran, Joo-Ho Lee
+    conference_short: Submitted to ICRA2024
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2409.11635
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    page: https://damtien444.github.io/paindf/
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/paindiffusion.png
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Finite Scalar Quantization as Facial Tokenizer for Dyadic Reaction Generation
+    authors: <strong> Quang Tien Dam</strong>, Tri Tung Nguyen Nguyen, Dinh Tuan Tran, Joo-Ho Lee
+    conference_short: FG2024
+    conference: IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG), 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10581929
+    code: https://github.com/ais-lab/FaceAIS_REACT24
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:oXj3Mt9Iuu8J:scholar.google.com/&output=citation&scisdr=ClE1ek8DENvh_6s6Ra8:AFWwaeYAAAAAZxs8Xa8QFl7itH_h_7kTs09o2qo&scisig=AFWwaeYAAAAAZxs8XdsUU5ljMPs1SAzaMNa0Vn0&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/aisreact.png
