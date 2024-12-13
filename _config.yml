@@ -56,9 +56,15 @@ exclude:
   - minimal-light.gemspec
   - html_source_file/
 
+
+baseurl: "/tien"
+url: "https://damtien444.github.io"
+
 # Navigation
 navigation:
   - title: "Home"
-    url: "/"
+    url: "{{ site.baseurl }}/"
   - title: "Blog"
-    url: "/blog/"
+    url: "{{ site.baseurl }}/blog/"
+
+

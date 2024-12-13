@@ -162,8 +162,8 @@
       </header>
 
       <div class="topnav">
-        <a class="{% if page.title == 'Home' %}active{% endif %}" href="/">Home</a>
-        <a class="{% if page.title != 'Home' %}active{% endif %}" href="/blog/">Blog</a>
+        <a class="{% if page.title == 'Home' %}active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+        <a class="{% if page.title != 'Home' %}active{% endif %}" href="{{ site.baseurl }}/blog/">Blog</a>
       </div>
 
       <section>
