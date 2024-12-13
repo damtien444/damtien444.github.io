@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: "Blog"
+permalink: /blog
 ---
 
 <h1>The thought that I had, it was me in the past.</h1>

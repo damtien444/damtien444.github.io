@@ -57,7 +57,7 @@ exclude:
   - html_source_file/
 
 
-baseurl: "/tien"
+baseurl: ""
 url: "https://damtien444.github.io"
 
 # Navigation
