@@ -625,3 +625,8 @@ background-color: #002d72;
 color: white;
 }
 
+@media (prefers-color-scheme: dark) {
+  .topnav {
+    background-color: #20212b;
+  }
+}
