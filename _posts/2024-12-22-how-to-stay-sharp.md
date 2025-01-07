@@ -12,9 +12,8 @@ I thought that by increasing the number of words I could choose from and increas
 
 Language ability is important to discovering myself. Different languages mean different dimensions of ourselves. That is why people might have different personalities when they switch languages. I experienced that when I switched between Vietnamese and English. Myself in English is so open and straight to the point but somehow sounds naive. Vietnamese is more conservative and focuses on politeness.
 
-We should define our values and use that value prism to express and articulate ourselves, and stay sharp. It defines our character, which precisely describes who we are<sup>(1)</sup>. This reminds me of the system prompt of language models, where prompts are added to the beginning of every generation and act as the character of the model at the time. It ensures the model knows what values it should project. Many cracking techniques simply tell the model to ignore the system prompt, leading to a pretty weird character and unstable side of the language models. It's somehow the same for humans in this matter. 
+We should define our values and use that value prism to express and articulate ourselves, and stay sharp. It defines our character, which precisely describes who we are[^1]. This reminds me of the system prompt of language models, where prompts are added to the beginning of every generation and act as the character of the model at the time. It ensures the model knows what values it should project. Many cracking techniques simply tell the model to ignore the system prompt, leading to a pretty weird character and unstable side of the language models. It's somehow the same for humans in this matter. 
 
 I learned from my experience that I should write down my thoughts. It is a better way to communicate and organize the way I want to express myself. I practice writing down my thoughts here and there, but it's awesome to do it this way. I feel like I have discovered a part that has always been blurry in my mind.
 
----
-(1) https://www.youtube.com/watch?v=iF6-LkEXWfc
+[^1]: [YouTube Video](https://www.youtube.com/watch?v=iF6-LkEXWfc)
