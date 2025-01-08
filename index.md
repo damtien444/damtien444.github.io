@@ -10,7 +10,7 @@ permalink: /
 
 I am Quang-Tien Dam, a master's student at Ritsumeikan University, supervised by [Prof. Joo-Ho Lee](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220?lang=en) and [Prof. Dinh-Tuan Tran](https://sites.google.com/view/tuantd). My current research focuses on using generative models to generate reactions to human conversations or physical stimuli signals. I aspire to leverage AI to expand the boundaries of human knowledge. Imagine a future where machine learning enables us to understand whale communication about water conditions—such fascinating research excites me.
 
-I graduated from [Danang University of Technology](https://en.dut.udn.vn/), where I was guided by [Dr. Ninh Khanh Duy](https://scv.udn.vn/nkduy) and [Dr. Le Tran Duc](https://tranducle.github.io/), who nurtured my scientific dreams. I loved astronomy and was the president of the local student astronomy club, where we hosted astronomical events and created science outreach content to promote the subject. I hike in my free time and am a big nature person.
+I graduated from [Danang University of Technology](https://en.dut.udn.vn/), where I was guided by [Dr. Ninh Khanh Duy](https://scv.udn.vn/nkduy) and [Dr. Le Tran Duc](https://tranducle.github.io/), who nurtured my scientific dreams. I loved astronomy and was the president of the [local student astronomy club](https://thienvandanang.com/tac-gia/dam-quang-tien/), where we hosted astronomical events and created science outreach content to promote the subject. I hike in my free time and am a big nature person.
 
 ## Research Interests
 
