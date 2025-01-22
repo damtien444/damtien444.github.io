@@ -14,13 +14,30 @@
 
 # 2025-01-22
 
-- [ ] ask endo to replicate his arm joint sensor (#consult, #work)
-- [ ] print poster with the guys (#errands)
-- [ ] figure out how to demonstrate video qualitative result in a poster session (#presentation)
+- [x] implement connection interface for paindiffusion and external device (#work)
+  - design to have 3 modules (pain model, gaussian avatar as ui, arduino as external stimuli)
+  - use pyserial to read data from arduino (https://pythonforundergradengineers.com/python-arduino-potentiometer.html)
+  - gaussian avatar to be the single ui for this model
+- [x] code gaussian avatar ui to send the configuration to paindiffusion (#work)
+- [x] ask endo to replicate his arm joint sensor (#consult, #work)
+- [x] print poster with the guys (#errands)
+  - sometime do errands can cost us so much time
+- [x] learn fundamental math (#learn)
+- [x] figure out how to demonstrate video qualitative result in a poster session (#presentation)
+  - maybe export to video, pptx on android maybe not good
+- [x] watch from uppon poppy hills (#hobby)
+
+# 2025-01-23
+
 - [ ] read one chapter in feymann (#fundamental)
 - [ ] rearrange the phd application tracker (#career)
-- [ ] watch from uppon poppy hills (#hobby)
-- [ ] implement connection interface for paindiffusion and external device (#work)
-- [ ] learn fundamental math (#learn)
+  - build tracking database
+  - implement an automatic lab friendliness metrics
+    - from publication list, affilation of student
+    - lab member list
+      - -> publication style, publication venues, within and outside group collaboration
+  - assign paper depth/quality score for each lab (random sample some paper of the current student)
+  
 - [ ] learn skincare course (#learn)
-- [ ] read new paper in the field (#newpaper) -> change the name
+- [ ] read new paper (#newpaper) -> change the name
+- [ ] do problem set math thinking
