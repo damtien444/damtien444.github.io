@@ -47,13 +47,25 @@
 
 # 2025-01-25
 
+- [x] propose an initial method for receipt extraction (#projects)
+- [x] test VLM approach
+- [x] auto crawl publication - pi_investigate project (#career)
+- [x] buy medicine and skincare products back to vn (#errands)
+
+# 2025-01-26
+
+- [x] fill intern call https://www.omron.com/sinicx/en/internship/#internship-flow (#career)
+- [x] implement a test pipeline for VLM approach for document extraction (#work)
+- [x] buy a jean jacket and a soft pant
+
+# 2025-01-27
+
+- [ ] read "Titans: Learning to Memorize at Test Time" (#newpaper)
+- [ ] read one chapter in feymann (#fundamental)
 - [ ] implement an automatic lab friendliness metrics (#carreer, #personal)
     - from publication list, affilation of student
     - lab member list
       - -> publication style, publication venues, within and outside group collaboration
-- [ ] buy medicine and skincare products back to vn (errands)
-
-
 - [ ] implement different mapping functions from motion signal to heat stimuli (#work)
 - [ ] record a few samples to do further analysis to design the mapping from joint angle to heat stimuli (#work)
 - [ ] read one chapter in feymann (#fundamental)
@@ -61,8 +73,7 @@
   - build tracking database
   - assign paper depth/quality score for each lab (random sample some paper of the current student)
 - [ ] learn skincare course (#learn)
-- [ ] read new paper (#newpaper) -> change the name
 - [ ] learn new module in math thinking
-- [ ] text the dentist to book an appointment for teeth implant(#health)
+- [ ] text the dentist to book an appointment for finalizing teeth implant(#health)
 - [x] read one chapter in feymann (#fundamental)
-- [ ] implement
+- [ ] propose an approach for 
