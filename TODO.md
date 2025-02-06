@@ -60,14 +60,20 @@
 
 # 2025-01-27
 
+- [x] use deep seek model to do the assert the uniqueness of names of author in publication list (#career)
+  -> this does not work sometime (because it is a generative model)
+  -> maybe use the google id would be better
+
 - [ ] read "Titans: Learning to Memorize at Test Time" (#newpaper)
 - [ ] read one chapter in feymann (#fundamental)
 - [ ] implement an automatic lab friendliness metrics (#carreer, #personal)
     - from publication list, affilation of student
     - lab member list
       - -> publication style, publication venues, within and outside group collaboration
+    - idea: use the deep seek model or model with thinking ability to do the analysis (cheap and high quality)
 - [ ] implement different mapping functions from motion signal to heat stimuli (#work)
 - [ ] record a few samples to do further analysis to design the mapping from joint angle to heat stimuli (#work)
+
 - [ ] read one chapter in feymann (#fundamental)
 - [ ] investigate professor and their projects (#career)
   - build tracking database

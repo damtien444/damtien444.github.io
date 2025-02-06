@@ -61,10 +61,10 @@ exclude:
 baseurl: ""
 url: "https://damtien444.github.io"
 
-collections:
-  reflections:
-    output: true
-    permalink: /reflections/:name/
+# collections:
+#   reflections:
+#     output: true
+#     permalink: /reflections/:name/
 
 # Navigation
 navigation:
@@ -72,7 +72,7 @@ navigation:
     url: "{{ site.baseurl }}/"
   - title: "Blog"
     url: "{{ site.baseurl }}/blog.html"
-  - title: "Reflections"
-    url: "{{ site.baseurl }}/reading-reflections.html"
+  # - title: "Reflections"
+  #   url: "{{ site.baseurl }}/reading-reflections.html"
 
 

@@ -1,4 +1,4 @@
-<ol>
+<!-- <ol>
     {% assign sorted_reflections = site.reflections | sort: 'date' | reverse %}
     {% for reflection in sorted_reflections %}
         {% if reflection.date <= site.time %}
@@ -8,4 +8,4 @@
             </li>
         {% endif %}
     {% endfor %}
-</ol>
+</ol> -->
