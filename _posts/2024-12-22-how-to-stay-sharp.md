@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: "Be a Well-Articulated Self"
-date: 2024-12-22
+date: 2099-12-22
 ---
 
 # Be a Well-Articulated Self
