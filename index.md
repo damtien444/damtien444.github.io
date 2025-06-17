@@ -20,7 +20,9 @@ I graduated from [Danang University of Technology](https://en.dut.udn.vn/), wher
 
 ## News
 
-- **[Apr. 2024]** We win The Second REACT Challenge@IEEE FG24!
+- **[Jun 2025]** PainDiffusion got accepted to IROS 2025. ✌️
+
+- **[Apr 2024]** We win The Second REACT Challenge@IEEE FG24!
 
 {% include_relative _includes/publications.md %}
 
