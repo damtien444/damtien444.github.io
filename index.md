@@ -16,9 +16,11 @@ I graduated from [Danang University of Technology](https://en.dut.udn.vn/), wher
 
 - **Computer Vision:** video generation, multimodal generation
 - **Facial Expression:** pain facial expression, facial reaction in dyadic conversation
-- Not much here, please enlighten me!
+- **Robotic motion**
 
 ## News
+
+- **[Aug 2025]** I got travel grant to IROS, so grateful for it 🫶
 
 - **[Jun 2025]** PainDiffusion got accepted to IROS 2025. ✌️
 
