@@ -14,7 +14,7 @@ I graduated from [Danang University of Technology](https://en.dut.udn.vn/), wher
 
 ## Research Interests
 
-My current research interest lie in the intersection of machine learning and robotics, however, I'm open to explore new horizon of machine learning application in various areas.
+My current research interests lie at the intersection of machine learning and robotics. However, I'm open to exploring new horizons of machine learning applications in various areas.
 
 ## News
 
