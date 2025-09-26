@@ -9,7 +9,7 @@ main:
     page: https://damtien444.github.io/paindf/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/paindiffusion.png
-    # notes: Early Accept
+    notes: Best Paper Award Finalist
 
   - title: Finite Scalar Quantization as Facial Tokenizer for Dyadic Reaction Generation
     authors: <strong> Quang Tien Dam</strong>, Tri Tung Nguyen Nguyen, Dinh Tuan Tran, Joo-Ho Lee
