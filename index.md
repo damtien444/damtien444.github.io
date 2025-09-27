@@ -19,9 +19,7 @@ My current research interests lie at the intersection of machine learning and ro
 ## News
 
 - **[Aug 2025]** I got travel grant to IROS, so grateful for it 🫶
-
 - **[Jun 2025]** PainDiffusion got accepted to IROS 2025. ✌️
-
 - **[Apr 2024]** We won The Second REACT Challenge@IEEE FG24!
 
 {% include_relative _includes/publications.md %}
