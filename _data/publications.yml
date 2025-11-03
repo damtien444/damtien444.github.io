@@ -8,8 +8,9 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     page: https://damtien444.github.io/paindf/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/paindiffusion.png
-    notes: Best Paper Award Finalist
+    image: ./assets/img/Graphical-Abstract-PainDiffusion.jpg
+    # notes: Best Paper Award Finalist
+    notes: IROS Best Entertainment and Amusement Paper Award
 
   - title: Finite Scalar Quantization as Facial Tokenizer for Dyadic Reaction Generation
     authors: <strong> Quang Tien Dam</strong>, Tri Tung Nguyen Nguyen, Dinh Tuan Tran, Joo-Ho Lee
@@ -19,3 +20,4 @@ main:
     code: https://github.com/ais-lab/FaceAIS_REACT24
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:oXj3Mt9Iuu8J:scholar.google.com/&output=citation&scisdr=ClE1ek8DENvh_6s6Ra8:AFWwaeYAAAAAZxs8Xa8QFl7itH_h_7kTs09o2qo&scisig=AFWwaeYAAAAAZxs8XdsUU5ljMPs1SAzaMNa0Vn0&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/aisreact.png
+    notes: Winner of The Second REACT Challenge@IEEE FG24
