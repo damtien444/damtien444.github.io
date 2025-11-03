@@ -99,6 +99,12 @@
         {% endif %}
 
         <h1>{{ site.title }}</h1>
+        <div style="font-size: 0.9rem; color: #666; margin-top: 8px;">
+          <span style="cursor: pointer; user-select: none;" onclick="playPronunciation()" title="Click to hear pronunciation">
+            (Pronunciation: /tee-EN/)  
+            <i class="fas fa-volume-up" style="font-size: 0.85rem; color: #043361;"></i>
+          </span>
+        </div>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
@@ -184,6 +190,31 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script src="{{ "/assets/js/eye-animation.js" | relative_url }}"></script>
+
+    <script>
+      // Pronunciation audio player
+      function playPronunciation() {
+        // Using Web Speech API to synthesize Vietnamese pronunciation
+        const utterance = new SpeechSynthesisUtterance('Tiến');
+        utterance.lang = 'vi-VN';
+        utterance.rate = 0.8;
+        utterance.pitch = 1.0;
+        
+        // Try to find Vietnamese voice, fallback to default
+        const voices = speechSynthesis.getVoices();
+        const vietnameseVoice = voices.find(voice => voice.lang.startsWith('vi'));
+        if (vietnameseVoice) {
+          utterance.voice = vietnameseVoice;
+        }
+        
+        speechSynthesis.speak(utterance);
+      }
+
+      // Load voices (some browsers load them asynchronously)
+      if (speechSynthesis.onvoiceschanged !== undefined) {
+        speechSynthesis.onvoiceschanged = () => {};
+      }
+    </script>
 
     {% if site.google_analytics %}
     <script>
