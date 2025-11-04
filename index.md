@@ -6,17 +6,15 @@ permalink: /
 
 ## About Me
 
-Hi!
+Hi! I'm Quang-Tien Dam, a recent master's graduate from [Ritsumeikan University](https://en.ritsumei.ac.jp/), where I worked under the supervision of [Prof. Joo-Ho Lee](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220?lang=en) and [Asst. Prof. Dinh-Tuan Tran](https://sites.google.com/view/tuantd). My master's research explored the intersection of generative AI and human-robot interaction, specifically leveraging diffusion and flow matching models to generate realistic reactions to pain stimuli and augment expression data for robot patient simulators. 
 
-I am Quang-Tien Dam, who has just graduated as a master's student at [Ritsumeikan University](https://en.ritsumei.ac.jp/), supervised by [Prof. Joo-Ho Lee](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220?lang=en) and [Asst. Prof. Dinh-Tuan Tran](https://sites.google.com/view/tuantd). My master's research focuses on using diffusion and flow matching models to generate reactions to pain stimuli signals and augment expression data aiming to improve robot patient simulators. 
+I hold a Bachelor of Engineering from [Danang University of Technology (DUT)](https://en.dut.udn.vn/), where I worked on computer vision projects including flood segmentation in urban scenes with [Dr. Ninh Khanh Duy](https://scv.udn.vn/nkduy), and ransomware detection using CV models as part of the [netsec-it lab](https://netsec-it.dut.udn.vn/) under [Dr. Le Tran Duc](https://tranducle.github.io/).
 
-I graduated from [Danang University of Technology (DUT)](https://en.dut.udn.vn/), where my thesis was guided by [Dr. Ninh Khanh Duy](https://scv.udn.vn/nkduy) on Flood Segmentation in Urban Scenes. I was also a member of the [netsec-it lab](https://netsec-it.dut.udn.vn/) supervised by [Dr. Le Tran Duc](https://tranducle.github.io/), where I conducted a study on applying computer vision models to detect ransomware. 
+Beyond research, I like astronomy, I served as president of the [Danang Astronomy Club](https://thienvandanang.com/tac-gia/dam-quang-tien/), organizing observing events and creating science outreach content to spark public interest in the cosmos. When I'm not working on robotics or stargazing, you'll find me hiking and exploring nature.
 
-I love astronomy and was the president of the [Danang Astronomy Club](https://thienvandanang.com/tac-gia/dam-quang-tien/), where we hosted observing events and created science outreach content on social media to promote the subject. I hike in my free time and am a big nature person.
+**My vision** is to develop generative models for robotics that enable robots to become intelligent, adaptive companions that is capable of living alongside humans as naturally as a beloved pet. 
 
-My current research interest is generative models for robotics, with the long-term goal of making robots so intelligent that they could live in the same house with people like a pet.
-
-**BTW, I am looking for a PhD position in generative AI for robotics.**
+📧 **I am actively looking for PhD positions in generative AI for robotics.**
 
 
 ## News
