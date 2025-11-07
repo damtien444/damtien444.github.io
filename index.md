@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-## About Me
+## Craving for interesting thoughts
 
 Hi! I'm Quang-Tien Dam, a recent master's graduate from [Ritsumeikan University](https://en.ritsumei.ac.jp/), where I worked under the supervision of [Prof. Joo-Ho Lee](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220?lang=en) and [Asst. Prof. Dinh-Tuan Tran](https://sites.google.com/view/tuantd). My master's research explored the intersection of generative AI and human-robot interaction, specifically leveraging diffusion and flow matching models to generate realistic reactions to pain stimuli and augment expression data for robot patient simulators. 
 
