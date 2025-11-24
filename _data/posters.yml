@@ -1,0 +1,14 @@
+main:
+
+  - conference: IROS 2025
+    pdf: /assets/poster/PainDiffusion-IROS.pdf
+    image: /assets/img/poster-paindiffusion-iros.png
+
+  - conference: ROBOMECH 2024
+    pdf: /assets/poster/FaceTokenizer-ROBOMECH.pdf
+    image: /assets/img/poster-facetokenizer-robomech.png
+
+
+# convert -density 300 assets/poster/PainDiffusion-IROS.pdf -quality 90 assets/img/poster-paindiffusion-iros.png
+
+# convert -density 300 assets/poster/FaceTokenizer-ROBOMECH.pdf +append assets/img/poster-facetokenizer-robomech.png
