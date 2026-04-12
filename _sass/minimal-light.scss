@@ -439,6 +439,12 @@ section {
   text-align: justify;
 }
 
+.news-scroll {
+  max-height: 33vh;
+  overflow-y: auto;
+  padding-right: 8px;
+}
+
 small {
   font-size:11px;
 }
@@ -486,6 +492,10 @@ footer {
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
+  }
+
+  .news-scroll {
+    max-height: 45vh;
   }
 
   header a small {

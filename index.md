@@ -17,6 +17,7 @@ Beyond research, I like astronomy, I served as president of the [Danang Astronom
 
 ## News
 
+<div class="news-scroll">
 <details open>
 <summary><strong>2026</strong></summary>
 <ul>
@@ -27,7 +28,7 @@ Beyond research, I like astronomy, I served as president of the [Danang Astronom
 <details>
 <summary><strong>2025</strong></summary>
 <ul>
-  <li><strong>[Otc 2025]</strong> I'll join [VinMotion](https://vinmotion.net/) as an intern to work on data infrastructure for humanoid robot fleet.</li>
+  <li><strong>[Otc 2025]</strong> I'll join <a href="https://vinmotion.net/">VinMotion</a> as an intern to work on data infrastructure for humanoid robot fleet.</li>
   <li><strong>[Oct 2025]</strong> Exciting news! PainDiffusion has been awarded as IROS Best Entertainment and Amusement Paper Award.</li>
   <li><strong>[Aug 2025]</strong> I got travel grant to IROS.</li>
   <li><strong>[Jun 2025]</strong> PainDiffusion got accepted to IROS 2025. ✌️</li>
@@ -40,6 +41,7 @@ Beyond research, I like astronomy, I served as president of the [Danang Astronom
   <li><strong>[Apr 2024]</strong> We won The Second REACT Challenge@IEEE FG24!</li>
 </ul>
 </details>
+</div>
 
 <br>
 
