@@ -12,16 +12,22 @@ I hold a Bachelor of Engineering from [Danang University of Technology (DUT)](ht
 
 Beyond research, I like astronomy, I served as president of the [Danang Astronomy Club](https://thienvandanang.com/tac-gia/dam-quang-tien/), organizing observing events and creating science outreach content to spark public interest in the cosmos. When I'm not working on robotics or stargazing, you'll find me hiking and exploring nature.
 
-**My vision** is to develop generative models for robotics that enable robots to become intelligent, adaptive companions that is capable of living alongside humans as naturally as a beloved pet. 
-
-📧 **I am actively looking for PhD positions in generative AI for robotics.**
+**My vision** is to develop methods that enable robots to become intelligent, adaptive companions that is capable of living alongside humans as naturally as a beloved pet. 
 
 
 ## News
 
 <details open>
+<summary><strong>2026</strong></summary>
+<ul>
+  <li><strong>[May 2026]</strong> Huraay! I have been accepted as a as a doctoral student at the International Max Planck Research School for Intelligent Systems (IMPRS-IS) and will be working in the field of Social Interaction & Multimodal AI under the supervision of [Dr. Philipp Müller](https://scholar.google.com/citations?hl=en&user=RmcYRGAAAAAJ&view_op=list_works&sortby=pubdate) at the [Max Planck Institute for Intelligent Systems](http://is.mpg.de/)</li>
+</ul>
+</details>
+
+<details>
 <summary><strong>2025</strong></summary>
 <ul>
+  <li><strong>[Otc 2025]</strong> I'll join [VinMotion](https://vinmotion.net/) as an intern to work on data infrastructure for humanoid robot fleet.</li>
   <li><strong>[Oct 2025]</strong> Exciting news! PainDiffusion has been awarded as IROS Best Entertainment and Amusement Paper Award.</li>
   <li><strong>[Aug 2025]</strong> I got travel grant to IROS.</li>
   <li><strong>[Jun 2025]</strong> PainDiffusion got accepted to IROS 2025. ✌️</li>
