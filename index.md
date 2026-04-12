@@ -20,7 +20,7 @@ Beyond research, I like astronomy, I served as president of the [Danang Astronom
 <details open>
 <summary><strong>2026</strong></summary>
 <ul>
-  <li><strong>[May 2026]</strong> Huraay! I have been accepted as a as a doctoral student at the International Max Planck Research School for Intelligent Systems (IMPRS-IS) and will be working in the field of Social Interaction & Multimodal AI under the supervision of [Dr. Philipp Müller](https://scholar.google.com/citations?hl=en&user=RmcYRGAAAAAJ&view_op=list_works&sortby=pubdate) at the [Max Planck Institute for Intelligent Systems](http://is.mpg.de/)</li>
+  <li><strong>[May 2026]</strong> Huraay! I have been accepted as a as a doctoral student at the International Max Planck Research School for Intelligent Systems (IMPRS-IS) and will be working in the field of Social Interaction & Multimodal AI under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=RmcYRGAAAAAJ&view_op=list_works&sortby=pubdate">Dr. Philipp Müller</a> at the <a href="http://is.mpg.de/">Max Planck Institute for Intelligent Systems</a></li>
 </ul>
 </details>
 
