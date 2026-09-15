@@ -6,14 +6,13 @@ permalink: /
 
 ## Craving for interesting thoughts
 
-Hi! I'm Quang-Tien Dam, a recent master's graduate from [Ritsumeikan University](https://en.ritsumei.ac.jp/), where I worked under the supervision of [Prof. Joo-Ho Lee](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220?lang=en) and [Asst. Prof. Dinh-Tuan Tran](https://sites.google.com/view/tuantd). My master's research explored the intersection of generative AI and human-robot interaction, specifically leveraging diffusion and flow matching models to generate realistic reactions to pain stimuli and augment expression data for robot patient simulators. 
+I'm currently a doctoral student at the International Max Planck Research School for Intelligent Systems (IMPRS-IS) and will be working in the field of Social Interaction & Multimodal AI under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=RmcYRGAAAAAJ&view_op=list_works&sortby=pubdate">Dr. Philipp Müller</a> at the <a href="http://is.mpg.de/">Max Planck Institute for Intelligent Systems.
 
-I hold a Bachelor of Engineering from [Danang University of Technology (DUT)](https://en.dut.udn.vn/), where I worked on computer vision projects including flood segmentation in urban scenes with [Dr. Ninh Khanh Duy](https://scv.udn.vn/nkduy), and ransomware detection using CV models as part of the [netsec-it lab](https://netsec-it.dut.udn.vn/) under [Dr. Le Tran Duc](https://tranducle.github.io/).
+I hold a master's degree from [Ritsumeikan University](https://en.ritsumei.ac.jp/), where I worked under the supervision of [Prof. Joo-Ho Lee](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000220?lang=en) and [Asst. Prof. Dinh-Tuan Tran](https://sites.google.com/view/tuantd). My Bachelor of Engineering is from [Danang University of Technology (DUT)](https://en.dut.udn.vn/), where I worked with [Dr. Ninh Khanh Duy](https://scv.udn.vn/nkduy), and as part of the [netsec-it lab](https://netsec-it.dut.udn.vn/) under [Dr. Le Tran Duc](https://tranducle.github.io/).
 
 Beyond research, I like astronomy, I served as president of the [Danang Astronomy Club](https://thienvandanang.com/tac-gia/dam-quang-tien/), organizing observing events and creating science outreach content to spark public interest in the cosmos. When I'm not working on robotics or stargazing, you'll find me hiking and exploring nature.
 
-**My vision** is to develop methods that enable robots to become intelligent, adaptive companions that is capable of living alongside humans as naturally as a beloved pet. 
-
+What I'm focused on [right now](/now).
 
 ## News
 
@@ -21,6 +20,7 @@ Beyond research, I like astronomy, I served as president of the [Danang Astronom
 <details open>
 <summary><strong>2026</strong></summary>
 <ul>
+  <li><strong>[Sep 2026]</strong> I attend the <a href="https://mlss2026.is.tuebingen.mpg.de/"> Machine Learning Summer School 2026.</a> </li>
   <li><strong>[May 2026]</strong> Huraay! I have been accepted as a doctoral student at the International Max Planck Research School for Intelligent Systems (IMPRS-IS) and will be working in the field of Social Interaction & Multimodal AI under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=RmcYRGAAAAAJ&view_op=list_works&sortby=pubdate">Dr. Philipp Müller</a> at the <a href="http://is.mpg.de/">Max Planck Institute for Intelligent Systems.</a></li>
 </ul>
 </details>
