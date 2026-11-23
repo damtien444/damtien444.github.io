@@ -170,6 +170,17 @@ If you'd like to add your own custom styles, you may edit `_sass/minimal-light.s
 
 If you'd like to change the theme's HTML layout, you may edit `_layout/homepage.html`.
 
+### "Last updated" stamp
+
+The footer shows a "Last updated" date read from `_data/last_updated.yml`. A tracked
+pre-commit hook refreshes that file automatically. Enable it once per clone:
+
+```bash
+git config core.hooksPath .githooks
+```
+
+The file is generated — don't edit it by hand.
+
 ## License
 
 This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) License.

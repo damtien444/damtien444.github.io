@@ -185,6 +185,10 @@
       <p><small>Miss but an hour's fated meeting, and lifetimes pass before next greeting.</small></p>
       {% endif %}
 
+      {% if site.data.last_updated.date %}
+      <p><small>Last updated: {{ site.data.last_updated.date | date: "%B %-d, %Y" }}</small></p>
+      {% endif %}
+
       </section>
       <footer>
         
